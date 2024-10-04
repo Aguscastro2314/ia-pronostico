@@ -1,0 +1,7 @@
+{
+    "pronosticos": [
+        { "partido": "Equipo A vs Equipo B", "prediccion": "Gana Equipo A", "probabilidad": "65%" },
+        { "partido": "Equipo C vs Equipo D", "prediccion": "Empate", "probabilidad": "55%" },
+        { "partido": "Equipo E vs Equipo F", "prediccion": "Gana Equipo F", "probabilidad": "70%" }
+    ]
+}
